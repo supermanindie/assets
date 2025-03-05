@@ -1,0 +1,15 @@
+{
+  "name": "Tether",
+  "symbol": "USDT",
+  "decimals": 18,
+  "description": "The educational purpose and cyber security study purpose token creation and blockchain process flow study.",
+  "website": "https://primepixels.store",
+  "explorer": "https://bscscan.com/token/0x970DdD9e51C3dC671909c8781023d7c3e128Edb5",
+  "status": "active",
+  "id": "0x970DdD9e51C3dC671909c8781023d7c3e128Edb5",
+  "links": {
+    "twitter": "https://twitter.com/cloneusdt",
+    "telegram": "https://t.me/cryptostudy2025",
+    "github": "https://github.com/supermanindie"
+  }
+}
